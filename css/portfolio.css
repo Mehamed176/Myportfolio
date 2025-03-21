@@ -789,13 +789,14 @@ animation-delay: calc(.1s*var(--1));
     .resume-detail.About .resume-item{
         text-align: center;
     }
-    .home-detail .btn-sci .sci{
+  .home-detail .btn-sci .sci{
         margin-left: 0;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
+       
     }
-    
     .home-detail .btn-sci .sci a{
-        font-size:1.5rem;
+        font-size: .5rem;
+        padding: 0.5rem;
     }
     
     .contact-box form{
