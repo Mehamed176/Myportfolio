@@ -794,6 +794,10 @@ animation-delay: calc(.1s*var(--1));
         margin-bottom: 2rem;
     }
     
+    .home-detail .btn-sci .sci a{
+        font-size:1.5rem;
+    }
+    
     .contact-box form{
         padding: 2.5rem 3rem 3.5rem;
     }
